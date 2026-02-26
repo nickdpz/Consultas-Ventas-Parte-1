@@ -12,12 +12,12 @@
   },
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "create-react-app": "^3.4.1",
+    "create-react-app": "^5.1.0",
     "md5": "^2.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "4.3.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "sweetalert2": "^9.10.12"
   },
   "devDependencies": {
